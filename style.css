@@ -1,0 +1,21 @@
+/* html,body {
+  zoom: 160%;
+  height: 100%;
+} */
+
+/* html, body {
+    width: 25%;
+    margin: 0;
+    padding: 0;
+}
+#container {
+    width: inherit;
+    height: inherit;
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+} */
+body {
+    margin: 0;
+    padding: 0;
+}
